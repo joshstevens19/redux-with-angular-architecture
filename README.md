@@ -1,3 +1,3 @@
-Best redux with angular architecture.
+Redux with Angular best architecture.
 
-youtube video - TBC
+youtube video - https://www.youtube.com/watch?v=dtFQpvd1mmg
